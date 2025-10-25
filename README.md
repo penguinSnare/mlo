@@ -4,7 +4,7 @@
 `mlo` is a terminal-based JSON parsing tool that helps users quickly search for specific **keys or values** across JSON files or entire directories.  
 It scans recursively, identifies matches in both keys and values, and reports where each match appears using JSON pointer-style paths.
 
-Originally developed for internal QA automation, `mlo` has been refactored to allow **any user** to define their own search terms — now called **"keys"** — interactively or via command-line arguments.
+Originally developed as a QA CLI tool, `mlo` has been refactored to allow **any user** to define their own search terms — now called **"keys"** — interactively or via command-line arguments.
 
 ---
 
